@@ -1,6 +1,6 @@
 # Current Project State
 
-- Mapping status: **LOCKED AND VALIDATED**
+- Mapping status: **V2 DEPENDENCY-AUDITED AND LOCKED**
 - Total questions: **2,308**
 - Questions completed: **10 / 2,308**
 - Questions remaining: **2,298**
@@ -11,9 +11,7 @@
 - Java version target: **21**
 - Build system: **Maven**
 - Current application form: **Java console bootstrap with main-method experiments**
-- Verification: **All Batch 002 Java sources compiled successfully with Java 21**
-- Runtime verification: **Standard, overloaded and static-hiding experiments executed successfully; non-static and non-public launcher failures were confirmed as expected**
-- Maven verification: **Not executed in the assistant runtime because Maven is not installed there**
-- Source trace comments: **Enabled from Batch 002 and retrofitted to Batch 000 and Batch 001**
+- Source trace comments: **Enabled and retrofitted through Batch 002**
+- Curriculum mapping: **Version 2 semantic prerequisite audit complete**
 
-The repository is the source of truth for the next handoff. Read the current code and Batch 003 mapping before implementing new work.
+The repository is the source of truth for the next handoff. Read the current code, `docs/CURRICULUM_AUDIT.md`, and the corrected Batch 003 mapping before implementing new work.

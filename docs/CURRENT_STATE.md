@@ -4,9 +4,11 @@
 - Total questions: **2,308**
 - Questions completed: **0 / 2,308**
 - Interview batches: **001-462**
-- Last completed batch: **None**
-- Next batch: **Batch 000**
-- Java application code: **Not created yet**
-- Build status: **Not applicable yet**
+- Last completed batch: **Batch 000**
+- Next batch: **Batch 001**
+- Java version target: **21**
+- Build system: **Maven**
+- Java application code: **Not started yet**
+- Verification: **Project foundation created; Java 21 toolchain available**
 
-Batch 000 creates the Java/Maven project foundation and consumes no interview questions. Do not start Batch 001 until Batch 000 is completed, verified, documented, committed and pushed.
+Batch 000 created the Maven/Java project foundation and consumed no interview questions.

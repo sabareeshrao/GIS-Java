@@ -1,8 +1,22 @@
 # Architecture
 
-There is intentionally no Java application architecture yet. The curriculum and handoff system are established before implementation.
+## Current state after Batch 000
 
-Planned evolution:
+The repository now has a minimal Maven Java 21 foundation. No production application architecture is forced yet.
+
+Current structure:
+
+```text
+GIS-Java/
+├── pom.xml
+├── .gitignore
+├── docs/
+└── src/
+    └── main/
+        └── java/
+```
+
+## Planned evolution
 
 1. Java console experiments
 2. Object-oriented GIS domain model

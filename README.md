@@ -43,6 +43,14 @@ A question should normally lead to at least one feature, code experiment, refact
 
 Batch 000 creates the project foundation and consumes no interview questions. Batch 001 must not begin until Batch 000 is completed and pushed.
 
+## Current implementation status
+
+- Completed setup batch: **Batch 000**
+- Completed interview batches: **Batch 001**
+- Questions completed: **5 / 2,308**
+- Next batch: **Batch 002**
+- Current form: **minimal Java 21 console bootstrap**
+
 ## Planned product
 
 The final platform is intended to support survey projects, survey points, coordinate validation, CSV/JSON/GeoJSON imports, duplicate detection, PostgreSQL/PostGIS persistence, GIS processing jobs, QA/QC workflows, REST APIs, security, reporting, observability, production diagnostics, and deployment workflows.

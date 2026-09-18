@@ -1,20 +1,27 @@
 # Architecture
 
-## Current state after Batch 000
+## Current state after Batch 001
 
-The repository now has a minimal Maven Java 21 foundation. No production application architecture is forced yet.
-
-Current structure:
+The application is intentionally still a very small Java 21 console program.
 
 ```text
 GIS-Java/
 ├── pom.xml
 ├── .gitignore
 ├── docs/
+│   └── batches/
+│       ├── BATCH_000.md
+│       └── BATCH_001.md
 └── src/
     └── main/
         └── java/
+            └── com/
+                └── gisjava/
+                    └── bootstrap/
+                        └── GeoSurveyBootstrap.java
 ```
+
+`GeoSurveyBootstrap` proves the first runtime path and reports the Java version, JVM implementation and operating system. It is a learning bootstrap, not the final application architecture.
 
 ## Planned evolution
 

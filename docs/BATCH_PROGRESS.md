@@ -3,7 +3,7 @@
 Legend: [ ] not started, [-] in progress, [x] completed.
 
 - [x] **Batch 000** | Project foundation | 0 interview questions
-- [ ] **Batch 001** | P0001-P0005 | Q0012, Q0013, Q0014, Q0015, Q0016
+- [x] **Batch 001** | P0001-P0005 | Q0012, Q0013, Q0014, Q0015, Q0016
 - [ ] **Batch 002** | P0006-P0010 | Q0017, Q0018, Q0019, Q0020, Q0021
 - [ ] **Batch 003** | P0011-P0015 | Q0022, Q2224, Q2225, Q2226, Q2227
 - [ ] **Batch 004** | P0016-P0020 | Q2228, Q2229, Q2230, Q2231, Q2232

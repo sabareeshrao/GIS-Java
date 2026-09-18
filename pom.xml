@@ -4,12 +4,16 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <!-- BATCH 000 | STEP 01 | PROJECT FOUNDATION -->
+    <!-- Establishes the Maven identity of the GeoSurvey Operations Platform. -->
     <groupId>com.gisjava</groupId>
     <artifactId>gis-java</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <name>GeoSurvey Operations Platform</name>
     <description>Hands-on Java learning project in the GIS, aerial mapping, and topographic survey domain.</description>
 
+    <!-- BATCH 000 | STEP 02 | PROJECT FOUNDATION -->
+    <!-- Locks the initial project to Java 21 and UTF-8 source encoding. -->
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -7,11 +7,11 @@ Questions are listed in logical project order. Stable Q IDs preserve the origina
 - [x] **P0003** | **Q0014** | Batch 001
 - [x] **P0004** | **Q0015** | Batch 001
 - [x] **P0005** | **Q0016** | Batch 001
-- [ ] **P0006** | **Q0017** | Batch 002
-- [ ] **P0007** | **Q0018** | Batch 002
-- [ ] **P0008** | **Q0019** | Batch 002
-- [ ] **P0009** | **Q0020** | Batch 002
-- [ ] **P0010** | **Q0021** | Batch 002
+- [x] **P0006** | **Q0017** | Batch 002
+- [x] **P0007** | **Q0018** | Batch 002
+- [x] **P0008** | **Q0019** | Batch 002
+- [x] **P0009** | **Q0020** | Batch 002
+- [x] **P0010** | **Q0021** | Batch 002
 - [ ] **P0011** | **Q0022** | Batch 003
 - [ ] **P0012** | **Q2224** | Batch 003
 - [ ] **P0013** | **Q2225** | Batch 003

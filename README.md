@@ -46,10 +46,24 @@ Batch 000 creates the project foundation and consumes no interview questions. Ba
 ## Current implementation status
 
 - Completed setup batch: **Batch 000**
-- Completed interview batches: **Batch 001**
-- Questions completed: **5 / 2,308**
-- Next batch: **Batch 002**
-- Current form: **minimal Java 21 console bootstrap**
+- Completed interview batches: **Batch 001-Batch 002**
+- Questions completed: **10 / 2,308**
+- Next batch: **Batch 003**
+- Current form: **Java 21 console bootstrap with main-method experiments**
+
+## Source trace comment convention
+
+Meaningful code introduced or modified by a learning batch should carry a nearby source comment when practical.
+
+Format:
+
+```text
+BATCH NNN | STEP NN | Q####
+```
+
+A marker records where a concept was introduced or changed. Later batches may reuse the same code and add their own markers without erasing useful earlier history.
+
+Batch 000 has no interview-question IDs, so its foundation markers use `PROJECT FOUNDATION` instead of a Q ID.
 
 ## Planned product
 

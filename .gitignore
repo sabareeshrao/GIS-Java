@@ -1,3 +1,5 @@
+# BATCH 000 | STEP 03 | PROJECT FOUNDATION
+# Keeps build output, compiled classes and local IDE metadata out of version control.
 target/
 out/
 *.class

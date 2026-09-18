@@ -1,8 +1,8 @@
 # Architecture
 
-## Current state after Batch 001
+## Current state after Batch 002
 
-The application is intentionally still a very small Java 21 console program.
+The application is intentionally still a small Java 21 console project focused on Java startup and entry-point behavior.
 
 ```text
 GIS-Java/
@@ -11,17 +11,30 @@ GIS-Java/
 ├── docs/
 │   └── batches/
 │       ├── BATCH_000.md
-│       └── BATCH_001.md
+│       ├── BATCH_001.md
+│       └── BATCH_002.md
 └── src/
     └── main/
         └── java/
             └── com/
                 └── gisjava/
                     └── bootstrap/
-                        └── GeoSurveyBootstrap.java
+                        ├── GeoSurveyBootstrap.java
+                        ├── GeoSurveyLauncher.java
+                        ├── NonPublicMainExperiment.java
+                        ├── NonStaticMainExperiment.java
+                        └── SurveyLauncherBase.java
 ```
 
-`GeoSurveyBootstrap` proves the first runtime path and reports the Java version, JVM implementation and operating system. It is a learning bootstrap, not the final application architecture.
+`GeoSurveyBootstrap` is the normal application entry point and now demonstrates command-line argument handling and main method overloading.
+
+`NonStaticMainExperiment` and `NonPublicMainExperiment` are intentional launcher-failure experiments.
+
+`SurveyLauncherBase` and `GeoSurveyLauncher` demonstrate that static main methods are hidden rather than overridden.
+
+Source code now uses batch trace comments such as `BATCH 002 | STEP 03 | Q0018` so a reader can identify where a learning change entered the project. Batch 000 uses `PROJECT FOUNDATION` because it consumed no interview questions.
+
+These classes are learning experiments, not the final application architecture.
 
 ## Planned evolution
 

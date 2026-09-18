@@ -12,11 +12,11 @@ Questions are listed in corrected dependency-first project order. Stable Q IDs p
 - [x] **P0008** | **Q0019** | Batch 002 | Stage 01
 - [x] **P0009** | **Q0020** | Batch 002 | Stage 01
 - [x] **P0010** | **Q0021** | Batch 002 | Stage 01
-- [ ] **P0011** | **Q0022** | Batch 003 | Stage 01
-- [ ] **P0012** | **Q2224** | Batch 003 | Stage 01
-- [ ] **P0013** | **Q2225** | Batch 003 | Stage 01
-- [ ] **P0014** | **Q2226** | Batch 003 | Stage 01
-- [ ] **P0015** | **Q2227** | Batch 003 | Stage 01
+- [x] **P0011** | **Q0022** | Batch 003 | Stage 01
+- [x] **P0012** | **Q2224** | Batch 003 | Stage 01
+- [x] **P0013** | **Q2225** | Batch 003 | Stage 01
+- [x] **P0014** | **Q2226** | Batch 003 | Stage 01
+- [x] **P0015** | **Q2227** | Batch 003 | Stage 01
 - [ ] **P0016** | **Q2228** | Batch 004 | Stage 01
 - [ ] **P0017** | **Q2236** | Batch 004 | Stage 01
 - [ ] **P0018** | **Q2237** | Batch 004 | Stage 01

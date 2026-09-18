@@ -5,7 +5,7 @@ Legend: [ ] not started, [-] in progress, [x] completed.
 - [x] **Batch 000** | Project foundation | 0 interview questions
 - [x] **Batch 001** | P0001-P0005 | Q0012, Q0013, Q0014, Q0015, Q0016 | JDK, JRE & JVM Overview
 - [x] **Batch 002** | P0006-P0010 | Q0017, Q0018, Q0019, Q0020, Q0021 | Compilation, Bytecode & Main Method
-- [ ] **Batch 003** | P0011-P0015 | Q0022, Q2224, Q2225, Q2226, Q2227 | Compilation, Bytecode & Main Method + Java Toolchain & Packaging
+- [x] **Batch 003** | P0011-P0015 | Q0022, Q2224, Q2225, Q2226, Q2227 | Compilation, Bytecode & Main Method + Java Toolchain & Packaging
 - [ ] **Batch 004** | P0016-P0020 | Q2228, Q2236, Q2237, Q2238, Q0023 | Transition: Java Platform, Entry Point & Basic Toolchain -> Language Fundamentals
 - [ ] **Batch 005** | P0021-P0025 | Q0024, Q0025, Q0026, Q0027, Q0028 | Variables, Data Types & Type Casting
 - [ ] **Batch 006** | P0026-P0030 | Q0029, Q0030, Q0031, Q2029, Q2030 | Variables, Data Types & Type Casting + Operators & Expressions
